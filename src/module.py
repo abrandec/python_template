@@ -1,4 +1,4 @@
-""" Web Crawler Module v0.0.1 """
+""" Python Template v0.0.1 """
 
 def hello_world():
     """ Hello World Function """

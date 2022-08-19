@@ -5,4 +5,3 @@ def test_hello_world():
     """ Test Hello world """
     assert hello_world() == "Hello World"
     
-    

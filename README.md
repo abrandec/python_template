@@ -2,7 +2,7 @@
 ![Pylint](https://github.com/abrandec/web_crawler/actions/workflows/pylint.yml/badge.svg)
 
 # Python Template
-<p1> Python template with CI (Documentation-free fork) </p1>
+<p1> Python template with CI (doc-free branch) </p1>
 
 ### [Documentation](https://abrandec.github.io/python_template/)
 

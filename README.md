@@ -1,9 +1,8 @@
 ![Tests](https://github.com/abrandec/web_crawler/actions/workflows/pytest.yml/badge.svg)
 ![Pylint](https://github.com/abrandec/web_crawler/actions/workflows/pylint.yml/badge.svg)
-![Docs](https://github.com/abrandec/web_crawler/actions/workflows/docs.yml/badge.svg)
 
 # Python Template
-<p1> Python template with CI </p1>
+<p1> Python template with CI (Documentation-free fork) </p1>
 
 ### [Documentation](https://abrandec.github.io/python_template/)
 
@@ -14,7 +13,7 @@
 
 ```
 # Clone this repository
-$ git clone https://github.com/abrandec/python_template
+$ git clone -b doc-free https://github.com/abrandec/python_template
 
 # Go into the repository
 $ cd python_template

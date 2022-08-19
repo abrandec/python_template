@@ -1,8 +1,8 @@
 ![Tests](https://github.com/abrandec/web_crawler/actions/workflows/pytest.yml/badge.svg)
 ![Pylint](https://github.com/abrandec/web_crawler/actions/workflows/pylint.yml/badge.svg)
 
-# Python Template
-<p1> Python template with CI (doc-free branch) </p1>
+# Python Template (doc-free branch)
+<p1> Python template with CI </p1>
 
 ### [Documentation](https://abrandec.github.io/python_template/)
 
